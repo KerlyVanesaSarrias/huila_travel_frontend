@@ -1,4 +1,4 @@
 // Ruta del Backend desplegado
 export const Global = {
-    url: ""
+    url: "https://huila-travel-backend.onrender.com"
 }
